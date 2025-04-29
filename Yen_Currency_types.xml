@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <!--psyopgirl's Yen Currency-->
+    <type name="MoneyYen1">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>2</quantmin>
+        <quantmax>50</quantmax>
+        <cost>2</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen5">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>2</quantmin>
+        <quantmax>40</quantmax>
+        <cost>2</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen10">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>2</quantmin>
+        <quantmax>25</quantmax>
+        <cost>2</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen50">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>1</quantmin>
+        <quantmax>15</quantmax>
+        <cost>2</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen100">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>1</quantmin>
+        <quantmax>10</quantmax>
+        <cost>25</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen500">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>1</quantmin>
+        <quantmax>4</quantmax>
+        <cost>25</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen1000">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>1</quantmin>
+        <quantmax>3</quantmax>
+        <cost>25</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen2000">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>1</quantmin>
+        <quantmax>2</quantmax>
+        <cost>25</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen5000">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>25</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MoneyYen10000">
+        <nominal>0</nominal>
+        <lifetime>21600</lifetime>
+        <restock>10800</restock>
+        <min>0</min>
+        <quantmin>1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>25</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+</types>
