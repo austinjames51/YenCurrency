@@ -51,7 +51,7 @@ After saving your changes and uploading the updated files, restart your server t
 
 
 ### Notes
-The types file does not add any spawn points or loot tables — it simply defines Yen currency item types. It also will not spawn ANY of the currency. You will need to change the min/max and nominal values to have them spawn. The whole point of this mod is that currency will not despawn if dropped onto the ground or stored somewhere. 
+The types file does not add any spawn points or loot tables — it simply defines Yen currency item types. It also will not spawn ANY of the currency. You will need to change the min and nominal values to have them spawn. Adding 10 for example to the nominal will make it spawn initially and when the amount in the min is 0 it will be replaced when there are 0 left in the world. I've also changed the value to last 6 hours on the ground/stored somewhere and 3 hours between spawning the items in so that players won't loot an area, run away, and have them spawn back. The whole point of this repository types.xml is that currency will not despawn if dropped onto the ground or stored somewhere. 
 
 You can integrate these items with your loot spawn system or traders manually if needed with psyopgirl's instructions in the mod page.
 
