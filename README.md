@@ -1,9 +1,9 @@
 # YenCurrency
 This is just a repository for the types.xml for psyopgirl's Yen Currency mod which can be found here: ttps://steamcommunity.com/sharedfiles/filedetails/?id=3434475139&searchtext=yen+currency
 
-# 💴 Yen Currency Mod for DayZ
+# 💴 Yen Currency Types file for DayZ
 
-This mod adds Yen currency items to your DayZ server's economy using a standalone `types.xml` configuration.
+This types file adds Yen currency items to your DayZ server's economy using a standalone `types.xml` configuration. It does NOT include the mod. You will need to download that and add it to your server using the instructions on the modpage.
 
 ---
 
