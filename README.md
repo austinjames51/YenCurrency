@@ -1,5 +1,5 @@
 # YenCurrency
-This is just a repository for the types.xml for psyopgirl's Yen Currency mod which can be found here: ttps://steamcommunity.com/sharedfiles/filedetails/?id=3434475139&searchtext=yen+currency
+This is just a repository for the types.xml for psyopgirl's Yen Currency mod which can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=3434475139&searchtext=yen+currency
 
 # 💴 Yen Currency Types file for DayZ
 
